@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">SkillSprint</string>
+<string name="tagline">Tiny lessons. Big momentum.</string>
+<string name="welcome">⚡ SkillSprint</string>
+<string name="login">Login</string>
+<string name="register">Create account</string>
+<string name="email_hint">Email address</string>
+<string name="password_hint">Password</string>
+<string name="name_hint">Full name</string>
+<string name="confirm_hint">Confirm password</string>
+</resources>
